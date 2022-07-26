@@ -5,5 +5,4 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-white?style=flat-square&logo=VisualStudioCode&logoColor=007ACC"/> <img src="https://img.shields.io/badge/Git-white?style=flat-square&logo=Git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=181717"/>
 
 ### Me
-<a href="https://www.instagram.com/kangmuni/"><img src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=Instagram&logoColor=E4405F"/></a>
 <a href="https://kangmuni.notion.site/309f202d8fc34f8fbdd663411b4327a5"><img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=000000"/></a>
