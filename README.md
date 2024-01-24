@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/Redux-white?style=flat-square&logo=Redux&logoColor=764ABC"/> <br/>
 
-<img src="https://img.shields.io/badge/Firebase-white?style=flat-square&logo=Firebase&logoColor=FFCA28"/> <img src="https://img.shields.io/badge/Sanity-white?style=flat-square&logo=Sanity&logoColor=F03E2F"/> 
+<img src="https://img.shields.io/badge/Firebase-white?style=flat-square&logo=Firebase&logoColor=FFCA28"/> <img src="https://img.shields.io/badge/Sanity-white?style=flat-square&logo=Sanity&logoColor=F03E2F"/> <img src="https://img.shields.io/badge/Postman-white?style=flat-square&logo=postman&logoColor=FF6C37"/> 
 
 <img src="https://img.shields.io/badge/VisualStudioCode-white?style=flat-square&logo=VisualStudioCode&logoColor=007ACC"/> <img src="https://img.shields.io/badge/Git-white?style=flat-square&logo=Git&logoColor=F05032"/> </br> </br>
 
