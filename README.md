@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-white?style=flat-square&logo=VisualStudioCode&logoColor=007ACC"/> <img src="https://img.shields.io/badge/Git-white?style=flat-square&logo=Git&logoColor=F05032"/> </br> </br>
 
 ### Me
-<a href="https://kangmuni.notion.site/309f202d8fc34f8fbdd663411b4327a5"><img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=000000"/></a> <a href="mailto:kangmoonee@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=Gmail&logoColor=EA4335"/></a> <a href="https://github.com/kangmuni"><img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=181717"/></a>
+<a href="https://www.notion.so/kangmuni/309f202d8fc34f8fbdd663411b4327a5?pvs=4"><img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=000000"/></a> <a href="mailto:kangmoonee@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=Gmail&logoColor=EA4335"/></a> <a href="https://github.com/kangmuni"><img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=181717"/></a>
 </div> 
 
 
